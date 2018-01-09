@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\andriodsto-project\\exercise\\GSD1708\\Day3_8_WeatherReport\\progresslib\\build\\intermediates\\res\\merged\\androidTest\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\andriodsto-project\\exercise\\GSD1708\\Day3_8_WeatherReport\\progresslib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,6,7,8,9,10,11,12,13,14,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,106,155,568,626,682,744,795,848,899,952,998,1260",
+                        "endLines": "2,3,4,6,7,8,9,10,11,12,13,20,23",
+                        "endColumns": "50,48,46,57,55,61,50,52,50,52,45,12,12",
+                        "endOffsets": "101,150,197,621,677,739,790,843,894,947,993,1255,1415"
+                    }
+                }
+            ]
+        }
+    ]
+}
